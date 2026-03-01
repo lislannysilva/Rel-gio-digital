@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1fde5dc1-24bd-4c9d-b64f-542d082e1f3c
+
 # 🕒 Relógio Digital
 
 Projeto de um relógio digital desenvolvido com HTML, CSS e JavaScript.
