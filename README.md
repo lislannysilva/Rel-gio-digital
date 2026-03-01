@@ -7,11 +7,9 @@ Projeto de um relógio digital desenvolvido com HTML, CSS e JavaScript.
 - CSS3
 - JavaScript
 
-## 🎥 Demonstração em vídeo
+## 🎥 Demonstração
 
-Clique no vídeo abaixo para assistir:
-
-[▶️ Assistir demonstração](./Relógio.Digital...mp4)
+[▶️ Assistir vídeo](https://github.com/seuusuario/seurepo/raw/main/demo-relogio-digital.mp4)
 
 ## 🎯 Objetivo
 
